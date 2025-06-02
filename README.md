@@ -89,16 +89,6 @@ the following steps.
     - The scheduler choses the highest priority process from among all the eligible processes.
 
 - Note that during each call to the scheduler, the complete ready list has to be traversed.
-## Installation
-1- Clone the repository
-
-2- Install g++ compiler and make
-```bash
-sudo apt-get install g++ make
-```
-3- Compile the code using `make` command
-
-4- Run the executable file
 
 ## Input Format
 - Line 1: "trace" or "stats"
